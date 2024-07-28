@@ -1,7 +1,8 @@
 # Bézier Curve Shape Editor Roblox studio plugin
 
 ## Set-up
-You can find the plugin here: (paste link here)
+You can find the plugin here: [https://create.roblox.com/store/asset/18696218289](https://create.roblox.com/store/asset/18696218289/NOT-FINISHED-DO-NOT-USE).
+
 Once you have installed it in Roblox Studio go to PLUGINS -> Plugins by @CubingDeveloper and click Bézier Curve Shapes
 
 ## Usage
