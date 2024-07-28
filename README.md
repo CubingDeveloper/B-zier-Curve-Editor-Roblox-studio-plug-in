@@ -21,3 +21,5 @@ Once you have made your shape, simply press the finish button and the plugin wil
 
 ## Further help and discussion
 In my [Discord](https://discord.gg/k8wNB9fv9R) you can ask me or other people for help
+You can learn more about Bézier in [this Wikipedia article](https://en.wikipedia.org/wiki/B%C3%A9zier_curve) or use my [Roblox visualiser](https://www.roblox.com/games/18319270006/B-zier-Curve-Editor-LVL-UP) to play around with different types of curves. This plugin uses cubic Bézier curves.
+
