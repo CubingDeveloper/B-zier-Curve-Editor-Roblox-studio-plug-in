@@ -1,9 +1,9 @@
 # Bézier Curve Shape Editor Roblox studio plugin
 
 ## Set-up
-You can find the plugin here: [https://create.roblox.com/store/asset/18696218289](https://create.roblox.com/store/asset/18696218289/NOT-FINISHED-DO-NOT-USE).
+You can find the plugin here: [https://create.roblox.com/store/asset/18696218289](https://create.roblox.com/store/asset/18696218289/from-GitHub).
 
-Once you have installed it in Roblox Studio go to PLUGINS -> Plugins by @CubingDeveloper and click Bézier Curve Shapes
+Once you have installed it in Roblox Studio go to PLUGINS -> Bézier Curve Editor and click Bézier Curve Shapes
 
 ## Usage
 To use the plugin start off by pressing the Select button to select a surface to add your curve to. Points can only be moved and created on that surface, and where you press will determine the center.
@@ -14,10 +14,9 @@ The color of the dots have different meanings.
 - The green dots are points P0 and P3 (Start and end of the single curve)
 - The blue dots are points P1 and P2
 
-Once you have made your shape, simply press the finish button and the plugin will make an union that represents your shape. In the future I am planning to add support for `EditableMeshes`, but since they can't be saved and still are in Beta this most likely won't be added for a while
+Once you have made your shape, simply press the finish button and the plugin will make a model, depending if you choose outline or fill. In the future I am planning to add support for `EditableMeshes`, but since they can't be saved and still are in Beta this most likely won't be added for a while
 
 ## Known issues
-- Crossing lines will cause issues since it's using normals and unions to calculate the shape
 - Sometimes you can't drag points due to how plugin mouses works. To fix this just have your mouse enter the plugin window again and you should be able to drag points again.
 
 ## Further help and discussion
