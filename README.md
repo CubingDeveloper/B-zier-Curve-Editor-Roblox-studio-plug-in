@@ -1,7 +1,7 @@
 # Material Selector module for roblox plug-ins
 ## Set-up
 You can find the plugin here: [Creator Store](https://create.roblox.com/store/asset/93888406964695/MaterialSelector-module-for-plugins).
-Once you have installed it in Roblox Studio go to your toolbox then those four squares then my models. And then it should be there! Simply click it to insert it!
+Once you have installed it in Roblox Studio go to your toolbox then those four squares, I know great description, then my models. And then it should be there! Simply click it to insert it!
 
 ## Usage
 Require the module script and initialize it like this:
