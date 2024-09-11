@@ -7,7 +7,7 @@ Once you have installed it in Roblox Studio go to your toolbox then those four s
 Require the module script and initialize it like this:
 ```lua
 local MaterialSelectorModule = require(script.MaterialSelectorModule)
-MaterialSelectorModule(plugin) --The plugin is for creating UI. This is required.
+MaterialSelectorModule.init(plugin) --The plugin is for creating UI. This is required.
 ```
 Then bind the open to a function
 ```lua
